@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+# Adding a link to profile
+- Here is a link to my profile :
+[s4mc4d](https://github.com/s4mc4d/)
